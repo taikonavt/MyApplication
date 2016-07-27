@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomWidget</string>
+    <string name="widget_name">My second widget</string>
+    <string name="widget_text">Text in widget</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="ok">Ok</string>
+</resources>

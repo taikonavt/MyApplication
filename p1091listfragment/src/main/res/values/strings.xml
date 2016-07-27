@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListFragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_list">Список чисел</string>
+    <string name="empty">Нет данных</string>
+</resources>

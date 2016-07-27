@@ -1,0 +1,141 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="6dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:id="@+id/roseBtn"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/rose_1"
+                android:text="@string/rose"
+                android:textColor="#ffffff"
+                android:textSize="25sp"
+                android:textAllCaps="false"
+                android:background="#3C7306"
+                android:padding="5dp"
+                android:gravity="top|center"
+                android:onClick="onRoseClick"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:id="@+id/proposeBtn"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/propose"
+                android:text="@string/propose"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:textAllCaps="false"
+                android:background="#D1DD05"
+                android:padding="5dp"
+                android:gravity="top|center"
+                android:onClick="onProposeClick"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:id="@+id/chocolateBtn"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/chocolate"
+                android:text="@string/chocolate"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:textAllCaps="false"
+                android:background="#3E0F05"
+                android:padding="5dp"
+                android:gravity="top|center"
+                android:onClick="onChocolateClick"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:id="@+id/teddyBtn"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/teddy"
+                android:text="@string/teddy"
+                android:textColor="#3E0F05"
+                android:textSize="25sp"
+                android:textAllCaps="false"
+                android:background="#FBFBFB"
+                android:padding="5dp"
+                android:gravity="top|center"
+                android:onClick="onTeddyClick"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:id="@+id/promiseBtn"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/promise"
+                android:text="@string/promise"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:textAllCaps="false"
+                android:background="#191814"
+                android:padding="5dp"
+                android:gravity="top|center"
+                android:onClick="onPromiseClick"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:id="@+id/hugBtn"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/hug"
+                android:text="@string/hug"
+                android:textColor="#FF51BD"
+                android:textSize="25sp"
+                android:textAllCaps="false"
+                android:background="#51CBFA"
+                android:padding="5dp"
+                android:gravity="top|center"
+                android:onClick="onHugClick"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:id="@+id/kissBtn"
+                android:drawableStart="@drawable/kiss"
+                android:text="@string/kiss"
+                android:textColor="#357AFF"
+                android:textSize="25sp"
+                android:textAllCaps="false"
+                android:background="#FDA6AF"
+                android:padding="5dp"
+                android:gravity="top|center"
+                android:onClick="onKissClick"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:id="@+id/valentineBtn"
+                android:layout_gravity="center_horizontal"
+                android:drawableStart="@drawable/valentine"
+                android:text="@string/valentine"
+                android:textColor="#FF0000"
+                android:textSize="20sp"
+                android:textAllCaps="false"
+                android:background="#0000ff"
+                android:padding="5dp"
+                android:gravity="top|center"
+                android:onClick="onValentineClick"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

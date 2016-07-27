@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/zero"
+        android:orderInCategory="1"
+        android:title="0%"
+        ></item>
+    <item
+        android:id="@+id/quarter"
+        android:orderInCategory="2"
+        android:title="25%"
+        ></item>
+    <item
+        android:id="@+id/half"
+        android:orderInCategory="3"
+        android:title="50%"
+        ></item>
+    <item
+        android:id="@+id/three_fourths"
+        android:orderInCategory="4"
+        android:title="75%"
+        ></item>
+</menu>

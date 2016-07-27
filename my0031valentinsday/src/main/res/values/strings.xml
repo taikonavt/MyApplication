@@ -1,0 +1,250 @@
+<resources>
+    <string name="app_name">My0031valentinsday</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="share_title">Share a message via:</string>
+
+
+    <string name="rose">Rose Day SMS</string>
+    <string-array name="roseList">
+        <item>
+            Sweeter than the candeez..\n
+            love-lier dan di re roses..\n
+            more huggable dan soft\n
+            toysss.\n
+            thats what you\&apos;re\n
+            heres wishng u a happy Rose\n
+            Day..\n
+            thats as special as u r..\n
+        </item>
+        <item>
+            Rose doesn\&apos;t mean for\n
+            proposing\n
+            lv it also mean\n
+            r-rare\n
+            o-ones\n
+            s-supporting\n
+            e-essential\n
+            lyf b-a rose 4-some-1 4-ever.
+        </item>
+        <item>
+            Flower are ver soft don\&apos;t touch\n
+            them with hard gands\n
+            Similary fiilings are so soft\n
+            like flowers\n
+            don\&apos;t touch them with harsh\n
+            words!
+        </item>
+    </string-array>
+
+
+    <string name="propose">Propose Day SMS</string>
+    <string-array name="proposeList">
+        <item>
+            With every bit of my heart, I\n
+            Will love you more and more,\n
+            After Years Of Togetherness\n
+            This\n
+            Is My Solemn Vow For You, My\n
+            Love!\n
+            Happy Propose Day Sweet\n
+            Heart.
+        </item>
+        <item>
+            I\&apos;m In a Imbalance State of\n
+            Mind\n
+            What to Give You Because\n
+            There\n
+            Is Nothing More Beautiful &amp;\n
+            Sweeter than You. Wish You\n
+            A Happy Propose Day My Love.
+        </item>
+        <item>
+            Word Have Not Enough\n
+            Strength\n
+            To Express My Love Towards\n
+            You. My Eyes Are Enough To\n
+            Express\n
+            It! Happy Propose Day Dear!
+        </item>
+    </string-array>
+
+    <string name="chocolate">Chocolate Day SMS</string>
+    <string-array name="chocolateList">
+        <item>
+            My mouth is full of Oreo,\n
+            Ice cream..\n
+            Fudge..\n
+            &amp; Cool Whip..\n
+            so I just nod.
+        </item>
+        <item>
+           All u need is love.\n
+            But a little chocolate\n
+            now &amp; den doz not heart.
+        </item>
+        <item>
+           Chocolate Comes In Different\n
+            Sizes,\n
+            Flavour And Shape, No Matter\n
+            What They Look Like, The\n
+            Most\n
+            Important Thing Is That\n
+            Perfect\n
+            Satisfaction I Get When Eating\n
+            Them, Can\&apos;t Wait To Get A Bite\n
+            Of It Again Happy Chocolate\n
+            Day.
+        </item>
+    </string-array>
+
+    <string name="teddy">Teddy Day SMS</string>
+    <string-array name="teddyList">
+        <item>
+            (\&quot;)....(\&quot;)\n
+            ( \&apos; o \&apos;  )\n
+             (\&quot;)-(\&quot;)\n
+            (\&quot;\&quot;)-(\&quot;\&quot;)\n
+            Happy Teddy Bear Day
+        </item>
+        <item>
+           You are Smile of my Lips,\n
+            Twinkle of my eyes,\n
+            and joy of my face,\n
+            Without you I am nothing,\n
+            Happy Teddy Bear Day
+        </item>
+        <item>
+           Boy: Do U Huf Ur Teddy Bear\n
+            While Sleeping At Night??\n
+            Girl: Yes!\n
+            Boy: Can I Replace It For the\n
+            Rest Of Ur Life??:)\n
+            Happy Teddy Bear Day
+        </item>
+    </string-array>
+
+    <string name="promise">Promise Day SMS</string>
+    <string-array name="promiseList">
+        <item>
+            We Met It Was Luck!\n
+            We Talked It Was CHANCE!\n
+            We Became Friends It Was\n
+            DESTINY!\n
+            We Are Still Friends IT Is FAITH!\n
+            We Will Always Be Friends Its A\n
+            PROMISE!\n
+            On This Promise Day 2016..
+        </item>
+        <item>
+           With every beat of my heart,\n
+            I will love more and more,\n
+            After years of togetherness\n
+            this,\n
+            It\&apos;s my promise for you, my\n
+            love,\n
+            Happy propose day sweet\n
+            heary..!!!
+        </item>
+        <item>
+           I Want To Be The Greatest Of\n
+            Me,\n
+            For This Is All I Can Do.\n
+            It Is My Wish That You Promise\n
+            Me This,\n
+            You Be The Greatest Of You.\n
+            Happy Promise Day!!!
+        </item>
+    </string-array>
+
+    <string name="hug">Hug Day SMS</string>
+    <string-array name="hugList">
+        <item>
+            Love is like a cloud,\n
+            Love is like a dream,\n
+            Love is one word &amp; Everything\n
+            in between,\n
+            Love is a Fairytale come true,\n
+            Because I found Love when I\n
+            found you,\n
+            Happy Hug Day
+        </item>
+        <item>
+           Do you know&#8230;\n
+            There is one gift which can\&apos;t be\n
+            given\n
+            without taking it back,\n
+            That is why I give you hug,\n
+            which can\&apos;t be giving without\n
+            taking it back.\n
+            Happy Hug Day!
+        </item>
+        <item>
+           Relationship is like a garden\n
+            It\&apos;s beautiful when watered\n
+            with\n
+            Love, hug, tears &amp; cheers.\n
+            But it dries up if left\n
+            untouched&#8230;\n
+            So keep in touch always!
+        </item>
+    </string-array>
+
+    <string name="kiss">Kiss Day SMS</string>
+    <string-array name="kissList">
+        <item>
+            I\&apos;m with you reading this,\n
+            Looking at your eyes and your lips softly with\n
+            my fingertips.\n
+            Making love to you in every\n
+            kiss.
+        </item>
+        <item>
+           Its Kiss Day&#8230;\n
+            And I just bugged u&#8230;\n
+            in my thoughts&#8230;\n
+            Hope u felt the squezze!\n
+            -Happy Kiss Day-
+        </item>
+        <item>
+           Let The Rain Kiss You.\n
+            Let The Rain Beat Upon Your\n
+            Head\n
+            With Silver Liquid Drops.\n
+            Let The Rain Sing You A\n
+            Lullaby.
+        </item>
+    </string-array>
+
+    <string name="valentine">Valentine Day SMS</string>
+    <string-array name="valentineList">
+        <item>
+            Happy Valentines Day to\n
+            you, honey. You are the star that\n
+            keeps twinkling in my life. The\n
+            reason why I am glowing with\n
+            so much happiness and\n
+            excitement. Thanks for inspiring\n
+            me&#8230;
+        </item>
+        <item>
+           Love is full of surprises, Love is\n
+            feeling each others arm\n
+            around, Love is being\n
+            patient, Love is a warming\n
+            smile\n
+            HAPPY VALENTINE DAY&#8230;
+        </item>
+        <item>
+           Love is not how long you have\n
+            been together, not how much\n
+            you have given or receive. Not\n
+            how many times you have\n
+            helped each other, Its how you\n
+            value each other&#8230;
+        </item>
+    </string-array>
+
+</resources>

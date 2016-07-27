@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.maxim.my0031valentinsday" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".Rose">
+        </activity>
+        <activity
+            android:name=".RoseText">
+        </activity>
+
+        <activity
+            android:name=".Propose">
+        </activity>
+        <activity
+            android:name=".ProposeText">
+        </activity>
+
+        <activity
+            android:name=".Chocolate">
+        </activity>
+        <activity
+            android:name=".ChocolateText">
+        </activity>
+
+        <activity
+            android:name=".Teddy">
+        </activity>
+        <activity
+            android:name=".TeddyText">
+        </activity>
+
+        <activity
+            android:name=".Promise">
+        </activity>
+        <activity
+            android:name=".PromiseText">
+        </activity>
+
+        <activity
+            android:name=".Hug">
+        </activity>
+        <activity
+            android:name=".HugText">
+        </activity>
+
+        <activity
+            android:name=".Kiss">
+        </activity>
+        <activity
+            android:name=".KissText">
+        </activity>
+
+        <activity
+            android:name=".Valentine">
+        </activity>
+        <activity
+            android:name=".ValentineText">
+        </activity>
+
+    </application>
+
+</manifest>

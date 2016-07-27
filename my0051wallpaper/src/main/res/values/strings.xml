@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+
+    <string name="setWP">Set wallpaper</string>
+    <string name="openFolder">Open Folder</string>
+    <string name="toast_message">Picture is too small!</string>
+    <string name="toast_browser_message">Access is forbidden!</string>
+</resources>
