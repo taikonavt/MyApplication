@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CursorLoader</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+</resources>
